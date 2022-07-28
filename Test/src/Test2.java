@@ -6,7 +6,8 @@ public class Test2 {
 		for(int i=0;i<10;i++) {
 			System.out.println(i);
 		}
-		System.out.println("Das ist neu");
+		System.out.println(Mathe.mal(4, 4));
+		
 
 	}
 
