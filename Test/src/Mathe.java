@@ -23,7 +23,7 @@ public class Mathe {
 	}
 
 	public static void test3() {
-		System.out.print("wtf");
+		System.out.print("wtfxyx");
 
 	}
 
