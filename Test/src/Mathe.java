@@ -28,7 +28,6 @@ public class Mathe {
 	}
 
 	public static void test2() {
-		System.out.print("wtf2");
 		System.out.print("wtfkjgjh");
 		
 	}
