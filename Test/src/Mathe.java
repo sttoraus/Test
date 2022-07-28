@@ -12,8 +12,14 @@ public class Mathe {
 		return x-y;
 
 	}
+
 	public static void klar() {
 		System.out.print("something");
+	}
+
+	public static void test() {
+		System.out.print("wtf");
+
 	}
 
 }
