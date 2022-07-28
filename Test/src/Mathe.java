@@ -21,5 +21,9 @@ public class Mathe {
 		System.out.print("wtf");
 
 	}
+	public static void test2() {
+		System.out.print("wtf");
+		
+	}
 
 }
