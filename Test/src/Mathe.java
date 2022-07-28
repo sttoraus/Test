@@ -28,7 +28,7 @@ public class Mathe {
 	}
 
 	public static void test2() {
-		System.out.print("wtf");
+		System.out.print("wtfkjgjh");
 		
 	}
 
