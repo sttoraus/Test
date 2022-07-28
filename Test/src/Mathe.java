@@ -23,12 +23,13 @@ public class Mathe {
 	}
 
 	public static void test3() {
-		System.out.print("wtfxyx");
+		System.out.print("wtf");
 
 	}
 
 	public static void test2() {
 		System.out.print("wtf2");
+		System.out.print("wtfkjgjh");
 		
 	}
 
